@@ -1,0 +1,18 @@
+{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+
+{% if posts.size == 0 %}
+  {% assign posts=site.pages | where:"ref", page.ref | sort: 'lang' %}
+{% endif %}
+
+
+{% if posts.size == 0 %}
+  {% assign posts=site.campaigns | where:"ref", campaigns.ref | sort: 'lang' %}
+{% endif %}
+
+<div class="lang">
+  <ul>
+    {% for post in posts %}
+      <li><a href="{{ site.base-url }}{{ post.url }}">{{ post.lang }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

@@ -1,0 +1,20 @@
+---
+layout: main
+title:  english homepage
+categories: jekyll update
+ref: index
+---
+
+english
+
+{% for campaign in site.campaigns  %}
+	{% if campaign.lang == 'en' %}
+		{{ campaign.date | date: "%d/%m/%Y" }} ↝ <b>{{ campaign.title }}</b> ↝ {{ campaign.content }}<br>
+	{% endif %}
+{% endfor %}
+
+{% for post in site.posts  %}
+	{% if post.lang == 'en' %}
+		{{ post.date | date: "%d/%m/%Y" }} ↝ <b>{{ post.title }}</b> ↝ {{ post.content }}<br>
+	{% endif %}
+{% endfor %}

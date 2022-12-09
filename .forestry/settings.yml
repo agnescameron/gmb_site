@@ -4,12 +4,42 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: jekyll-pages
-  label: Pages
+- type: heading
+  label: en
+- type: directory
+  path: _pages/en
+  label: Pages-en
   create: all
-- type: jekyll-posts
-  label: Posts
+  match: "**/*"
+  new_doc_ext: ".html"
+- type: directory
+  path: _campaigns/en
+  label: Campaigns-en
   create: all
+  match: "**/*"
+- type: directory
+  path: _news/en
+  label: News-en
+  create: all
+  match: "**/*"
+- type: heading
+  label: es
+- type: directory
+  path: _pages/es
+  label: Pages-es
+  create: all
+  match: "**/*"
+  new_doc_ext: ".html"
+- type: directory
+  path: _campaigns/es
+  label: Campaigns-es
+  create: all
+  match: "**/*"
+- type: directory
+  path: _news/es
+  label: News-es
+  create: all
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

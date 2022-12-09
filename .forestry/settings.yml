@@ -6,12 +6,16 @@ webhook_url:
 sections:
 - type: heading
   label: en
+- type: document
+  path: index.html
+  label: Home-en
+  match: "**/*"
 - type: directory
   path: _pages/en
   label: Pages-en
   create: all
   match: "**/*"
-  new_doc_ext: ".html"
+  new_doc_ext: html
 - type: directory
   path: _campaigns/en
   label: Campaigns-en
@@ -24,12 +28,16 @@ sections:
   match: "**/*"
 - type: heading
   label: es
+- type: document
+  path: _pages/es/index.html
+  label: Home-es
+  match: "**/*"
 - type: directory
   path: _pages/es
   label: Pages-es
   create: all
   match: "**/*"
-  new_doc_ext: ".html"
+  new_doc_ext: html
 - type: directory
   path: _campaigns/es
   label: Campaigns-es

@@ -1,20 +1,15 @@
 ---
-layout: main
+layout: home
 title:  "spanish homepage"
 categories: jekyll update
 ref: index
+permalink: es
 ---
 
 spanish
 
-{% for campaign in site.campaigns  %}
-	{% if campaign.path contains 'es' %}
-		{{ campaign.date | date: "%d/%m/%Y" }} ↝ <b>{{ campaign.title }}</b> ↝ {{ campaign.content }}<br>
-	{% endif %}
-{% endfor %}
-
-{% for post in site.posts  %}
-	{% if post.path contains 'es' %}
-		{{ post.date | date: "%d/%m/%Y" }} ↝ <b>{{ post.title }}</b> ↝ {{ post.content }}<br>
-	{% endif %}
-{% endfor %}
+<ul>
+<li><a href="noticias">noticias</a></li>
+<li><a href="campanas">campanas</a></li>
+<li><a href="sobre">sobre</a></li>
+</ul>

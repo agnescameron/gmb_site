@@ -1,0 +1,12 @@
+---
+layout: main
+title: Campaigns
+ref: campaigns
+permalink: campaigns
+---
+
+{% for post in site.campaigns  %}
+	{% if post.lang == 'en' %}
+		{{ post.date | date: "%d/%m/%Y" }} ↝ <b>{{ post.title }}</b> ↝ {{ post.content }}<br>
+	{% endif %}
+{% endfor %}

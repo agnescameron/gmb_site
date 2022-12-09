@@ -1,0 +1,13 @@
+---
+layout: main
+title:  Campanas
+ref: campaigns
+permalink: campanas
+---
+
+
+{% for post in site.campaigns  %}
+	{% if post.lang == 'es' %}
+		{{ post.date | date: "%d/%m/%Y" }} ↝ <b>{{ post.title }}</b> ↝ {{ post.content }}<br>
+	{% endif %}
+{% endfor %}

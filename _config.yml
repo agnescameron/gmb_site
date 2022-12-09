@@ -40,3 +40,6 @@ collections:
      output: true
   pages:
      output: true
+  news:
+     output: true
+

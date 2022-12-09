@@ -1,12 +1,15 @@
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 
 {% if posts.size == 0 %}
+  {% assign posts=site.news | where:"ref", page.ref | sort: 'lang' %}
+{% endif %}
+
+{% if posts.size == 0 %}
   {% assign posts=site.pages | where:"ref", page.ref | sort: 'lang' %}
 {% endif %}
 
-
 {% if posts.size == 0 %}
-  {% assign posts=site.campaigns | where:"ref", campaigns.ref | sort: 'lang' %}
+  {% assign posts=site.campaigns | where:"ref", page.ref | sort: 'lang' %}
 {% endif %}
 
 <div class="lang">

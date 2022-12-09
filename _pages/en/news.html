@@ -1,0 +1,15 @@
+---
+layout: main
+title: news
+ref: news
+permalink: news
+---
+
+news
+
+{% for post in site.news  %}
+	{% if post.path contains 'en' %}
+		{{ post.date | date: "%d/%m/%Y" }} ↝ <b>{{ post.title }}</b> ↝ {{ post.content }}<br>
+	{% endif %}
+{% endfor %}
+

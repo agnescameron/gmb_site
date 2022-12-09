@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: home
 title:  english homepage
 categories: jekyll update
 ref: index
@@ -7,14 +7,8 @@ ref: index
 
 english
 
-{% for campaign in site.campaigns  %}
-	{% if campaign.lang == 'en' %}
-		{{ campaign.date | date: "%d/%m/%Y" }} ↝ <b>{{ campaign.title }}</b> ↝ {{ campaign.content }}<br>
-	{% endif %}
-{% endfor %}
-
-{% for post in site.posts  %}
-	{% if post.lang == 'en' %}
-		{{ post.date | date: "%d/%m/%Y" }} ↝ <b>{{ post.title }}</b> ↝ {{ post.content }}<br>
-	{% endif %}
-{% endfor %}
+<ul>
+	<li><a href="news">news</a></li>
+	<li><a href="campaigns">campaigns</a></li>
+	<li><a href="about">about</a></li>
+</ul>

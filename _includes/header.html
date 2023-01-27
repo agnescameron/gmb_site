@@ -21,12 +21,14 @@
 
     <div class="lang">
       <div>
+        <ul>
         {% for post in langposts %}
       <li>
           <h3><a href="{{ site.base-url }}{{ post.url }}">{{ post.lang }}</a></h3></li>
         {% endfor %}
       
       </div>
+    </ul>
     </div>
 
     <div class="nav">

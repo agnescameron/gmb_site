@@ -6,4 +6,4 @@ categories: jekyll update
 ref: hello
 ---
 
-post in english
+news post in english

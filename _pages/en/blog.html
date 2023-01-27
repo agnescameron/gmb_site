@@ -1,0 +1,13 @@
+---
+layout: main
+title: Blog
+ref: blog
+permalink: blog
+---
+
+
+{% for post in site.posts  %}
+	{% if post.lang == 'en' %}
+		{{ post.date | date: "%d/%m/%Y" }} ↝ <b>{{ post.title }}</b> ↝ {{ post.content }}<br>
+	{% endif %}
+{% endfor %}

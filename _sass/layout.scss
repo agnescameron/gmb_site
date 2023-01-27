@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+header {
+	background-color: pink;
+}
+
+body {
+	font-size: 1em;
+}
+
+@media screen and (max-width: 600px) {
+	body {
+		font-size: 2em;
+		line-height: 1.2em;
+	}
+
+	main {
+		max-width: 90%;
+		margin: 3%;
+		margin-top: 80px;
+	}
+
+}

@@ -1,33 +1,38 @@
-{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+{% assign langposts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 
-{% if posts.size == 0 %}
-  {% assign posts=site.news | where:"ref", page.ref | sort: 'lang' %}
+{% if langposts.size == 0 %}
+  {% assign langposts=site.news | where:"ref", page.ref | sort: 'lang' %}
 {% endif %}
 
-{% if posts.size == 0 %}
-  {% assign posts=site.pages | where:"ref", page.ref | sort: 'lang' %}
+{% if langposts.size == 0 %}
+  {% assign langposts=site.pages | where:"ref", page.ref | sort: 'lang' %}
 {% endif %}
 
-{% if posts.size == 0 %}
-  {% assign posts=site.campaigns | where:"ref", page.ref | sort: 'lang' %}
+{% if langposts.size == 0 %}
+  {% assign langposts=site.campaigns | where:"ref", page.ref | sort: 'lang' %}
 {% endif %}
 
 <header>
 
-  <div class="lang">
-    <ul>
-      {% for post in posts %}
-        <li><a href="{{ site.base-url }}{{ post.url }}">{{ post.lang }}</a></li>
-      {% endfor %}
-    </ul>
+  <div class="container">
+    <div class="home">
+      <h1><a href="/{{ page.lang }}">GMB SLU</a></h1>
+    </div> 
+
+    <div class="lang">
+      <div>
+        {% for post in langposts %}
+      <li>
+          <h3><a href="{{ site.base-url }}{{ post.url }}">{{ post.lang }}</a></h3></li>
+        {% endfor %}
+      
+      </div>
+    </div>
+
+    <div class="nav">
+      <h2>{% include menus/{{page.lang}}.html %}</h2>
+    </div>
   </div>
 
-  <div class="home">
-    <a href="/{{ page.lang }}">home</a>
-  </div> 
-
-  <div class="nav-menu">
-    {% include menus/{{page.lang}}.html %}
-  </div>
 
 </header>

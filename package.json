@@ -1,0 +1,24 @@
+{
+  "name": "gmb_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnescameron/gmb_site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agnescameron/gmb_site/issues"
+  },
+  "homepage": "https://github.com/agnescameron/gmb_site#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.2.1",
+    "tinacms": "^1.2.1"
+  }
+}

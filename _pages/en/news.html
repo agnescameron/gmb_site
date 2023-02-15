@@ -5,11 +5,15 @@ ref: news
 permalink: news
 ---
 
-news
+We publish a regular newsletter on GMB SLU's activities, posted here and to our mailing list. To contribute an item to the news page, please get in touch.
 
 {% for post in site.news  %}
-	{% if post.path contains 'en' %}
-		{{ post.date | date: "%d/%m/%Y" }} ↝ <b>{{ post.title }}</b> ↝ {{ post.content }}<br>
+	{% if post.lang == 'en' %}
+	<div class="post-card">
+		<h2><a href='{{ post.url }}'>{{ post.title }}</a></h2>
+		<h3>{{ post.date | date: "%d/%m/%Y" }}</h3>
+		<p>{{ post.content | truncatewords: 50 }}</p>
+	</div>
 	{% endif %}
 {% endfor %}
 

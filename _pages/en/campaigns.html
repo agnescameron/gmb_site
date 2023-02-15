@@ -7,6 +7,10 @@ permalink: campaigns
 
 {% for post in site.campaigns  %}
 	{% if post.lang == 'en' %}
-		{{ post.date | date: "%d/%m/%Y" }} ↝ <b>{{ post.title }}</b> ↝ {{ post.content }}<br>
+	<div class="post-card">
+		<h2><a href='{{ post.url }}'>{{ post.title }}</a></h2>
+		<h3>{{ post.date | date: "%d/%m/%Y" }}</h3>
+		<p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+	</div>
 	{% endif %}
 {% endfor %}

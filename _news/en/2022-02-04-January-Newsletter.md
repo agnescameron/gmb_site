@@ -1,7 +1,7 @@
 ---
 layout: main
-title:  "January Newsletter"
-date:   2022-02-04
+title: "January Newsletter"
+date: 2022-02-04
 categories: jekyll update
 ref: hello
 ---

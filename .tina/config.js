@@ -25,6 +25,18 @@ export default defineConfig({
         path: "_pages/en",
         fields: [
           {
+            type: "string",
+            name: "title",
+            label: "Title",
+            description: "Page title",
+          },
+          {
+            type: "string",
+            name: "ref",
+            label: "Reference",
+            description: "This links together english and spanish versions of the same page -- make sure it's the same for the pages you want to be linked + unique otherwise",
+          },
+          {
             type: "rich-text",
             name: "body",
             label: "Body of Document",
@@ -39,17 +51,23 @@ export default defineConfig({
         path: "_campaigns/en",
         fields: [
           {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
+            type: "string",
+            name: "title",
+            label: "Title",
+            description: "Page title",
           },
           {
             type: "string",
             name: "ref",
             label: "Reference",
-            description: "This is the reference",
+            description: "This links together english and spanish versions of the same page -- make sure it's the same for the pages you want to be linked + unique otherwise",
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body of Document",
+            description: "This is the markdown body",
+            isBody: true,
           },
         ],
       },
@@ -58,6 +76,24 @@ export default defineConfig({
         name: "news_en",
         path: "_news/en",
         fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            description: "Page title",
+          },
+          {
+            type: "datetime",
+            name: "date",
+            label: "Date",
+            description: "date of publication",
+          },
+          {
+            type: "string",
+            name: "ref",
+            label: "Reference",
+            description: "This links together english and spanish versions of the same page -- make sure it's the same for the pages you want to be linked + unique otherwise",
+          },
           {
             type: "rich-text",
             name: "body",
@@ -73,6 +109,18 @@ export default defineConfig({
         path: "_pages/es",
         fields: [
           {
+            type: "string",
+            name: "title",
+            label: "Title",
+            description: "Page title",
+          },
+          {
+            type: "string",
+            name: "ref",
+            label: "Reference",
+            description: "This links together english and spanish versions of the same page -- make sure it's the same for the pages you want to be linked + unique otherwise",
+          },
+          {
             type: "rich-text",
             name: "body",
             label: "Body of Document",
@@ -87,17 +135,23 @@ export default defineConfig({
         path: "_campaigns/es",
         fields: [
           {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
+            type: "string",
+            name: "title",
+            label: "Title",
+            description: "Page title",
           },
           {
             type: "string",
             name: "ref",
             label: "Reference",
-            description: "This is the reference",
+            description: "This links together english and spanish versions of the same page -- make sure it's the same for the pages you want to be linked + unique otherwise",
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body of Document",
+            description: "This is the markdown body",
+            isBody: true,
           },
         ],
       },
@@ -106,6 +160,24 @@ export default defineConfig({
         name: "news_es",
         path: "_news/es",
         fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            description: "Page title",
+          },
+          {
+            type: "datetime",
+            name: "date",
+            label: "Date",
+            description: "date of publication",
+          },
+          {
+            type: "string",
+            name: "ref",
+            label: "Reference",
+            description: "This links together english and spanish versions of the same page -- make sure it's the same for the pages you want to be linked + unique otherwise",
+          },
           {
             type: "rich-text",
             name: "body",

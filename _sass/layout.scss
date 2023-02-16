@@ -50,6 +50,10 @@ header h1, header h2, header h3 {
 	margin: 0px;
 }
 
+img {
+	max-width: 90%;
+}
+
 .container {
 	display: grid; 
 	grid-template-columns: 550px 1fr; 
@@ -110,4 +114,10 @@ article {
 	header h3 {
 		font-size: 1.5em;
 	}
+
+	img {
+		max-width: 80vw;
+	}
+
+
 }

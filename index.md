@@ -6,4 +6,4 @@ redirect_from: /en
 ref: index
 ---
 
-GMB south london universities general chat
+info about GMB South London Universities branch

@@ -7,5 +7,3 @@ permalink: es
 ---
 
 GMB Universidades del sur de Londres
-
-{% include menus/es.html %}

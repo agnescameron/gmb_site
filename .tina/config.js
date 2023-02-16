@@ -45,6 +45,12 @@ export default defineConfig({
             description: "This is the markdown body",
             isBody: true,
           },
+          {
+            type: "string",
+            name: "ref",
+            label: "Reference",
+            description: "This is the reference",
+          },
         ],
       },
       {
@@ -86,6 +92,12 @@ export default defineConfig({
             label: "Body of Document",
             description: "This is the markdown body",
             isBody: true,
+          },
+          {
+            type: "string",
+            name: "ref",
+            label: "Reference",
+            description: "This is the reference",
           },
         ],
       },

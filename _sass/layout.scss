@@ -65,6 +65,7 @@ img {
 	grid-template-areas: 
 		"home lang"
 		"nav nav"; 
+	align-items: start;
 }
 
 article {
@@ -80,6 +81,7 @@ article {
 	position: sticky;
 	position: -webkit-sticky;
 	top: 0;
+	align-self: start;
 	left: 0;
  }
 

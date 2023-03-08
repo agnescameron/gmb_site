@@ -43,6 +43,18 @@ export default defineConfig({
             description: "This is the markdown body",
             isBody: true,
           },
+          {
+            type: "string",
+            name: "layout",
+            required: true,
+            label: "Layout",
+            options: [
+              {
+                value: 'main',
+                label: 'Default',
+              },
+            ],
+          },
         ],
       },
       {
@@ -68,6 +80,18 @@ export default defineConfig({
             label: "Body of Document",
             description: "This is the markdown body",
             isBody: true,
+          },
+          {
+            type: "string",
+            name: "layout",
+            required: true,
+            label: "Layout",
+            options: [
+              {
+                value: 'main',
+                label: 'Default',
+              },
+            ],
           },
         ],
       },
@@ -101,6 +125,18 @@ export default defineConfig({
             description: "This is the markdown body",
             isBody: true,
           },
+          {
+            type: "string",
+            name: "layout",
+            required: true,
+            label: "Layout",
+            options: [
+              {
+                value: 'main',
+                label: 'Default',
+              },
+            ],
+          },
         ],
       },
       {
@@ -127,6 +163,18 @@ export default defineConfig({
             description: "This is the markdown body",
             isBody: true,
           },
+          {
+            type: "string",
+            name: "layout",
+            required: true,
+            label: "Layout",
+            options: [
+              {
+                value: 'main',
+                label: 'Default',
+              },
+            ],
+          },
         ],
       },
       {
@@ -152,6 +200,18 @@ export default defineConfig({
             label: "Body of Document",
             description: "This is the markdown body",
             isBody: true,
+          },
+          {
+            type: "string",
+            name: "layout",
+            required: true,
+            label: "Layout",
+            options: [
+              {
+                value: 'main',
+                label: 'Default',
+              },
+            ],
           },
         ],
       },
@@ -184,6 +244,18 @@ export default defineConfig({
             label: "Body of Document",
             description: "This is the markdown body",
             isBody: true,
+          },
+          {
+            type: "string",
+            name: "layout",
+            required: true,
+            label: "Layout",
+            options: [
+              {
+                value: 'main',
+                label: 'Default',
+              },
+            ],
           },
         ],
       },

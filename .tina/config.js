@@ -82,7 +82,7 @@ export default defineConfig({
             type: 'image',
             name: 'img',
             label: 'Cover image',
-            description: 'cover image for campaign'
+            description: 'cover image for campaign',
           },
           {
             type: "rich-text",
@@ -221,7 +221,7 @@ export default defineConfig({
             type: 'image',
             label: 'Cover image',
             name: 'img',
-            description: 'cover image for campaign'
+            description: 'cover image for campaign',
           },
           {
             type: "string",

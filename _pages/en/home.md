@@ -9,4 +9,4 @@ permalink: en
 
 This is information about GMB South London Universities branch
 
-![GMB SLU on the picket line outside LCC](/gmb_slu.jpg "GMB SLU on the picket line outside LCC")
+![](https://assets.tina.io/7d7b633d-cc5b-4d55-89f9-6acba1bcae9c/PHOTO-2021-11-12-08-00-26.jpg)

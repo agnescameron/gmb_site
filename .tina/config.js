@@ -211,17 +211,17 @@ export default defineConfig({
             description: "This links together english and spanish versions of the same page -- make sure it's the same for the pages you want to be linked + unique otherwise",
           },
           {
+            type: 'image',
+            label: 'Cover image',
+            name: 'img',
+            description: 'cover image for campaign',
+          },
+          {
             type: "rich-text",
             name: "body",
             label: "Body of Document",
             description: "This is the markdown body",
             isBody: true,
-          },
-          {
-            type: 'image',
-            label: 'Cover image',
-            name: 'img',
-            description: 'cover image for campaign',
           },
           {
             type: "string",

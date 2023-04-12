@@ -79,7 +79,7 @@ export default defineConfig({
             description: "This links together english and spanish versions of the same page -- make sure it's the same for the pages you want to be linked + unique otherwise",
           },
           {
-            type: 'image',
+            type: 'string',
             name: 'img',
             label: 'Cover image',
             description: 'cover image for campaign',

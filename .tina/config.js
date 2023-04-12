@@ -29,6 +29,8 @@ export default defineConfig({
             name: "title",
             label: "Title",
             description: "Page title",
+            isTitle: true,
+            required: true,
           },
           {
             type: "string",
@@ -67,12 +69,20 @@ export default defineConfig({
             name: "title",
             label: "Title",
             description: "Page title",
+            isTitle: true,
+            required: true,
           },
           {
             type: "string",
             name: "ref",
             label: "Reference",
             description: "This links together english and spanish versions of the same page -- make sure it's the same for the pages you want to be linked + unique otherwise",
+          },
+          {
+            type: 'image',
+            label: 'Cover image',
+            name: 'imgSrc',
+            description: 'cover image for campaign'
           },
           {
             type: "rich-text",
@@ -105,6 +115,8 @@ export default defineConfig({
             name: "title",
             label: "Title",
             description: "Page title",
+            isTitle: true,
+            required: true,
           },
           {
             type: "datetime",
@@ -149,6 +161,8 @@ export default defineConfig({
             name: "title",
             label: "Title",
             description: "Page title",
+            isTitle: true,
+            required: true,
           },
           {
             type: "string",
@@ -187,6 +201,8 @@ export default defineConfig({
             name: "title",
             label: "Title",
             description: "Page title",
+            isTitle: true,
+            required: true,
           },
           {
             type: "string",
@@ -200,6 +216,12 @@ export default defineConfig({
             label: "Body of Document",
             description: "This is the markdown body",
             isBody: true,
+          },
+          {
+            type: 'image',
+            label: 'Cover image',
+            name: 'imgSrc',
+            description: 'cover image for campaign'
           },
           {
             type: "string",
@@ -225,6 +247,8 @@ export default defineConfig({
             name: "title",
             label: "Title",
             description: "Page title",
+            isTitle: true,
+            required: true,
           },
           {
             type: "datetime",

@@ -8,6 +8,10 @@ body {
 	padding: 0px;
 }
 
+main {
+	padding-bottom: 100px;
+}
+
 header a {
 	text-decoration: none;
 }
@@ -27,10 +31,16 @@ h1 {
 header {
 	background-color: #FF6A13;
 	color: white;
-	padding-bottom: 10px;
+	overflow: auto;
 }
 
 header ul {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+.nav ul {
 	list-style: none;
 	padding: 0px;
 	margin: 0px;
@@ -42,6 +52,10 @@ header h1 {
 }
 
 header h2 {
+	font-size: 2em;
+}
+
+.nav h2 {
 	font-size: 2em;
 }
 
@@ -60,11 +74,9 @@ img {
 .container {
 	display: grid; 
 	grid-template-columns: 550px 1fr; 
-	grid-template-rows: 170px 1fr;  
+	grid-template-rows: 150px;
 	gap: 0px 0px; 
-	grid-template-areas: 
-		"home lang"
-		"nav nav"; 
+	grid-template-areas: "home lang";
 	align-items: start;
 }
 
@@ -76,14 +88,21 @@ article {
 
 .home { grid-area: home; }
 .lang { grid-area: lang; }
-.nav { 
-	grid-area: nav;
-	position: sticky;
+.nav {
+ 	position: sticky;
 	position: -webkit-sticky;
 	top: 0;
 	align-self: start;
 	left: 0;
+	min-height: 50px;
+	background-color: #FF6A13;
+	color: white;
+	overflow: auto;
  }
+
+.nav a {
+	text-decoration: none;
+}
 
 .nav li {
 	display: inline;
@@ -97,14 +116,29 @@ article {
 	padding-right: 20px;
 }
 
+.form-button {
+	background-color: #FF6A13;
+	color: white;
+	border: none;
+	font-size: 1.2em;
+}
+
+input {
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+
 @media screen and (max-width: 600px) {
 	.container {
-	grid-template-rows: 40px 100px 1fr;
+	grid-template-rows: 40px 100px;
 	grid-template-columns: 1fr; 
 	grid-template-areas: 
 		"lang"
 	    "home"
-	    "nav"; 
+	}
+
+	article {
+		min-width: 80vw;
 	}
 
 	header h1 {
@@ -115,6 +149,11 @@ article {
 	header h2 {
 		font-size: 1.5em;
 	}
+
+	.nav h2 {
+		font-size: 1.5em;
+	}
+
 
 	header h3 {
 		font-size: 1.5em;

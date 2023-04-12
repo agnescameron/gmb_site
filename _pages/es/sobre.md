@@ -12,14 +12,14 @@ permalink: es/sobre
 <p>El trabajo de GMB es muy simple: obtener la mejor oferta posible para usted. El significa estar de su lado si hay un problema, y siempre luchar por lo mejor cuando se trata de:</p>
 
 <ul>
-<li>Pago, términos y condiciones</li>
-<li>Una vida laboral decente donde los trabajadores estén seguros y sean tratados con dignidad</li>
-<li>Mejor equilibrio trabajo/vida</li>
-<li>Equidad: asegurarse de que los trabajadores tengan sus derechos en el trabajo y sean tratados de manera justa y legal cuando haya un problema.</li>
+  <li>Pago, términos y condiciones</li>
+  <li>Una vida laboral decente donde los trabajadores estén seguros y sean tratados con dignidad</li>
+  <li>Mejor equilibrio trabajo/vida</li>
+  <li>Equidad: asegurarse de que los trabajadores tengan sus derechos en el trabajo y sean tratados de manera justa y legal cuando haya un problema.</li>
 </ul>
 
 <p>Cuando estás en el trabajo, siempre es bueno saber que alguien está de tu lado, ese es nuestro trabajo.</p>
- 
+
 <p>Eso es genial, pero ¿cómo funciona en la práctica?</p>
 
 <p>Cuando eres miembro de GMB, eres parte de una familia que siempre te defenderá. Contamos con decenas de miles de empleados y activistas altamente capacitados que entienden exactamente qué derechos tienes y qué pueden hacer los empleadores.</p>

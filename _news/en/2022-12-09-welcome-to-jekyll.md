@@ -1,7 +1,7 @@
 ---
 layout: main
-title: "Example News Post"
-date: 2022-12-09 12:34:54 +0000
+title: Example News Post
+date: '2022-12-09T12:34:54.000Z'
 ref: first
 ---
 

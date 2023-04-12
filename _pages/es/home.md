@@ -1,6 +1,6 @@
 ---
 layout: main
-title:  "spanish homepage"
+title: spanish homepage
 categories: jekyll update
 ref: index
 permalink: es

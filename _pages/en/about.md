@@ -5,23 +5,26 @@ ref: about
 permalink: about
 ---
 
-GMB is a trade union that represents all workers.
+GMB is the trade union for everyone. At the national level, GMB has over 500,000 members who work in every type of job imaginable across public services and in private companies too. Our members work in full-time jobs, part-time jobs or are working while they study.
 
-We have over 500,000 members who work in every type of job imaginable across public services and in private companies too. Our members work in full-time jobs, part-time jobs or are working while they study.
+Our branch, GMB South London Universities (SLU), currently represent employees in all job roles who labour across the following higher education institutions:
 
-GMB’s job is very simple: to get the best deal possible for you. The means being on your side if there is a problem, and always fighting for better when it comes to:
+* University of the Arts London (which includes Camberwell College of the Arts, Chelsea College of the Arts, Central Saint Martins, London College of Communication, London College of Fashion and Wimbledon College of the Arts)
+* London Southbank University
+* University of Greenwich, London
 
-* Pay, terms and conditions
-* A decent work life where workers are safe and treated with dignity
-* Better work/life balance
-* Fairness – making sure working people have their rights at work and are treated fairly and legally when there’s a problem.
+We want everybody to enjoy a safe and fair working environment, where workers’ rights are fully recognised. GMB SLU is by your side if you’re experiencing a problem at work. Our Representatives (‘Reps’) are trained in employment law, health and safety, as well as representing members in grievance and disciplinary procedures.
 
-When you’re at work, it’s always good to know that someone is on your side - that’s our job.
+We can support you in the following areas:
 
-That’s great, but how does it work in practice?
+* Workload and stress
+* Parental leave, sick leave and holiday
+* Bullying and harassment
+* Restructures and redundancies
+* Workplace adjustments
+* Disciplinary and grievance procedures
+* Legal support through Unionline
 
-When you’re a member of GMB, you’re part of a family that will always stand up for you. We have tens of thousands of highly trained staff and activists who understand exactly what rights you have and what employers are allowed to do.
+We are a fighting, democratic and members-led union branch. We encourage all members to take an active role, to become Reps and Officers, and to have a say in how the union is run at regular meetings and through our campaigns. 
 
-We train our people in employment law, health and safety and how to represent people in disciplinary processes so that whenever there is a problem, someone has your back. Those activists are commonly referred to as ‘Reps’ or ‘workplace organsiers’.
-
-On every workplace issue, from individuals facing disciplinaries, to bullying at work, to making sure you get proper maternity or paternity rights or simply making sure that your workplace is a safe place to be – GMB is here for our members.
+GMB SLU is a branch of GMB Southern Region. For more info and how to join, visit [https://www.gmb.org.uk/join-gmb](https://www.gmb.org.uk/join-gmb "GMB membership joining link")

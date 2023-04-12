@@ -80,8 +80,8 @@ export default defineConfig({
           },
           {
             type: 'image',
+            name: 'img',
             label: 'Cover image',
-            name: 'imgSrc',
             description: 'cover image for campaign'
           },
           {
@@ -220,7 +220,7 @@ export default defineConfig({
           {
             type: 'image',
             label: 'Cover image',
-            name: 'imgSrc',
+            name: 'img',
             description: 'cover image for campaign'
           },
           {

@@ -25,6 +25,6 @@ We can support you in the following areas:
 * Disciplinary and grievance procedures
 * Legal support through Unionline
 
-We are a fighting, democratic and members-led union branch. We encourage all members to take an active role, to become Reps and Officers, and to have a say in how the union is run at regular meetings and through our campaigns. 
+We are a fighting, democratic and members-led union branch. We encourage all members to take an active role, to become Reps and Officers, and to have a say in how the union is run at regular meetings and through our campaigns.
 
-GMB SLU is a branch of GMB Southern Region. For more info and how to join, visit [https://www.gmb.org.uk/join-gmb](https://www.gmb.org.uk/join-gmb "GMB membership joining link")
+GMB SLU is a branch of GMB Southern Region. For more info and how to join, visit [https://www.gmb.org.uk/join-gmb](https://www.gmb.org.uk/join-gmb "GMB membership joining link"). If you have any questions, you can contact us at gmb@arts.ac.uk

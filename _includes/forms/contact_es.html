@@ -1,11 +1,18 @@
 <iframe name="dummyframe" id="dummyframe" style="display: none;"></iframe>
 
+<script>
+  function endForm() {
+   alert("gracias por su envío, nos pondremos en contacto con usted lo antes posible");
+  }
+</script>
+
  <form id = "contact-form"
    target="dummyframe"
    action="https://formkeep.com/f/c05ee22df918"
    accept-charset="UTF-8"
    enctype="multipart/form-data"
-   method="POST">
+   method="POST"
+   onsubmit="endForm()">
       <div>
         <label for="name">Nombre:
           <input type="text" name="name" id="name" />

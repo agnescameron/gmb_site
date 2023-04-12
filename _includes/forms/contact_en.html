@@ -2,6 +2,12 @@
 
 <iframe name="dummyframe" id="dummyframe" style="display: none;"></iframe>
 
+<script>
+  function endForm() {
+   alert('Thanks for your submission, we will get back to you ASAP');
+  }
+</script>
+
  <form 
   id="contact-form"
   action="https://formkeep.com/f/c05ee22df918"
@@ -9,7 +15,7 @@
    accept-charset="UTF-8"
    enctype="multipart/form-data"
    method="POST"
-   onsubmit="document.getElementById('contact-form').reset();">
+   onsubmit="endForm()">
       <div>
         <label for="name">Name:<br/>
           <input type="text" name="name" id="name" />

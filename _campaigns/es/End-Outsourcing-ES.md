@@ -34,3 +34,12 @@ El personal de limpieza subcontratado en la UAL es en su mayoría de origen étn
 Si desea leer más, puede consultar nuestro informe de campaña reciente 
 sobre la subcontratación de contratos de limpieza en la UAL aquí: [El 
 caso contra la subcontratación 2021](https://issuu.com/ualendoutsourcing/docs/ual_outsourcing_case_doc "El caso contra la subcontratación 2021").
+
+## Toma Acción
+
+* [Agregue su nombre a nuestra carta abierta](https://docs.google.com/forms/d/e/1FAIpQLSf359i_msTCUoKEZMgxZy4ef1YNjewjVhg9O8Pui1SkQWv6Zw/viewform "Agregue su nombre a nuestra carta abierta")
+  *  ¿Eres artista, periodista o trabajador del arte? Hemos iniciado una carta abierta pidiendo a la UAL que trate a los limpiadores de manera justa. La carta ha sido firmada por más de 300 artistas, incluyendo Aisling Bea, Reni Eddo-Lodge, Afua Hirsch, Gary Younge, Shon Faye, Mark Cousins, Ken Loach, Asif Kapadia y muchos más.
+
+Firme la petición
+
+¿No eres artista de profesión pero aún así quieres que se escuche tu voz? Nuestra petición exige que la Universidad de las Artes de Londres (UAL) ponga fin a la subcontratación de contratos de limpieza en todos sus campus y colegios, y que se tome en serio la salud y el bienestar de sus trabajadores de bajos ingresos, en su mayoría de origen étnico negro y minoritario.

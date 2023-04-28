@@ -44,3 +44,13 @@ caso contra la subcontratación 2021](https://issuu.com/ualendoutsourcing/docs/u
 
 * [Firme la petición](https://actionnetwork.org/petitions/ual-end-racist-outsourcing-cleaners "Firme la petición")
   * ¿No eres artista de profesión pero aún así quieres que se escuche tu voz? Nuestra petición exige que la Universidad de las Artes de Londres (UAL) ponga fin a la subcontratación de contratos de limpieza en todos sus campus y colegios, y que se tome en serio la salud y el bienestar de sus trabajadores de bajos ingresos, en su mayoría de origen étnico negro y minoritario.
+
+<!---->
+
+* [Dona al fondo de huelga](https://www.crowdfunder.co.uk/p/support-striking-outsourced-cleaners-at-ual-4 "Dona al fondo de huelga")
+  * Los trabajadores de limpieza irán a la huelga para obtener los mismos términos y condiciones que los empleados directos, y este fondo ayudará a cubrir su pago y gastos mientras llevan a cabo esta acción necesaria para obtener igualdad de derechos como trabajadores.
+
+<!---->
+
+* Únete a la campaña
+* ¿Eres un activista, estudiante o miembro del personal interesado en involucrarte más? Nos gustaría saber de ti y cómo te gustaría apoyar. En particular, agradecemos el apoyo en la línea de piquetes, la sensibilización y el trabajo de promoción, así como la producción de gráficos.

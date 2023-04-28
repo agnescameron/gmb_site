@@ -8,9 +8,7 @@ layout: main
 
 ## Campaign summary
 
-Cleaners at UAL and their union have repeatedly called to be brought in-house and be employed on the same terms and conditions as directly employed staff. These calls have been ignored for too long.
-
-Cleaners will strike to get the same terms and conditions as directly employed staff, and this fund will help cover their pay and expenses while they take this necessary action to get equal rights as workers.
+GMB SLU is working with students, staff and fellow activists to campaign for outsourced cleaners to be brought in-house on the same terms and conditions as directly employed staff.
 
 ## Campaign mission and rationale
 
@@ -40,6 +38,9 @@ If you would like to read more, you can check out our recent campaign report int
 
 * [**Add your name to our open letter**](https://docs.google.com/forms/d/e/1FAIpQLSf359i_msTCUoKEZMgxZy4ef1YNjewjVhg9O8Pui1SkQWv6Zw/viewform "Artists, journalists, and art workers open letter calling on UAL to treat cleaners fairly")
   * Are you an artist, journalist or art worker? We've started an open letter calling on UAL to treat cleaners fairly. The letter has been signed by over 300 artists, including Aisling Bea, Reni Eddo-Lodge, Afua Hirsch, Gary Younge, Shon Faye, Mark Cousins, Ken Loach, Asif Kapadia and many more. 
-* [Donate to the strike fund](https://www.crowdfunder.co.uk/p/support-striking-outsourced-cleaners-at-ual-4 "Support striking outsourced cleaners at UAL")
+* **[Donate to the strike fund](https://www.crowdfunder.co.uk/p/support-striking-outsourced-cleaners-at-ual-4 "Support striking outsourced cleaners at UAL")**
+  * Cleaners will strike to get the same terms and conditions as directly employed staff, and this fund will help cover their pay and expenses while they take this necessary action to get equal rights as workers.
+* [Join the campaign](mailto:gmb@arts.ac.uk "Join the UAL End Outsourcing Campaign")
+  * Are you an activist, student or member of staff interested in getting more involved? We'd like to hear from you and how you'd like to support.
 
 ## Further resources

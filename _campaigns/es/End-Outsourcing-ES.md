@@ -59,4 +59,4 @@ Furhter reousrce
 
 * Síguenos en [Twitter](https://twitter.com/ual_j4w?lang=en "UAL End Outsourcing Twitter") e [Instagram](https://www.instagram.com/ualendoutsourcing/?hl=en "UAL End Outsourcing Instagram") para conocer las noticias más recientes de nuestra campaña
 * Mira la película estudiantil Back In-House
-* Lee "[Los Limpiadores de UAL Están Luchando Contra la Agenda de Subcontratación](https://tribunemag.co.uk/2021/10/ual-cleaners-are-fighting-to-be-brought-in-house "Los Limpiadores de UAL Están Luchando Contra la Agenda de Subcontratación")" en Tribune
+* [Lee "Los Limpiadores de UAL Están Luchando Contra la Agenda de Subcontratación" en Tribune](https://tribunemag.co.uk/2021/10/ual-cleaners-are-fighting-to-be-brought-in-house "Los Limpiadores de UAL Están Luchando Contra la Agenda de Subcontratación")

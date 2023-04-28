@@ -52,7 +52,7 @@ If you would like to read more, you can check out our recent campaign report int
 <!---->
 
 * **[Join the campaign](mailto:gmb@arts.ac.uk "Join the UAL End Outsourcing Campaign")**
-  * Are you an activist, student or member of staff interested in getting more involved? We'd like to hear from you and how you'd like to support. In particular, we welcome support on the picket line, awareness-raising and advocacy work, as well as graphics production.
+  * Are you an activist, student or member of staff interested in getting involved in the campaign? We'd like to hear from you and how you'd like to support. In particular, we welcome support on the picket line, awareness-raising and advocacy work, as well as graphics production.
 
 ## Further resources
 

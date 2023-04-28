@@ -1,9 +1,36 @@
 ---
-title: End Outsourcing (ES)
+title: UAL Fin de la Subcontratación (ES)
 ref: outsourcing
 img: >-
   https://assets.tina.io/7d7b633d-cc5b-4d55-89f9-6acba1bcae9c/PHOTO-2021-11-19-09-33-45.jpg
 layout: main
 ---
 
-The campaign to end outsourcing at UAL is picking up steam again, and while we await a meeting with James Purnell and the cleaners to discuss the issues they face, an [open letter]("https://arts.us19.list-manage.com/track/click?u=c8501665ce4bf7425303e99ad\&id=3ed9cb1d74\&e=c8ba13d78a" "") demanding an end to outsourcing has been signed by 300 artists, including Aisling Bea, Reni Eddo-Lodge, Afua Hirsch, Gary Younge, Shon Faye, Mark Cousins, Ken Loach, Asif Kapadia and many more. 
+## Resumen de la Campaña
+
+GMB SLU está trabajando con estudiantes, personal y otros activistas para hacer campaña para que los limpiadores subcontratados sean contratados directamente con las mismas condiciones que el personal contratado directamente.
+Misión y Justificación de la Campaña
+
+La campaña llama a la Universidad de las Artes de Londres (UAL) a poner fin a la subcontratación de contratos de limpieza en todos sus campus y colegios. La UAL debe contratar directamente (en interno) al personal de limpieza bajo contratos con las mismas condiciones que el resto del personal de la UAL.
+
+La subcontratación describe la práctica laboral de contratar proveedores privados para la prestación de servicios, en este caso, de limpieza. La UAL debe comprometerse a poner fin a sus prácticas de subcontratación porque esta práctica es en última instancia:
+
+* Antiética, racista y discriminatoria
+* Incompatible con los valores de la UAL
+* Económicamente imprudente
+* Ideológica
+
+La subcontratación permite a la UAL emplear indirectamente al personal de limpieza en condiciones y términos inferiores al personal contratado directamente, con una remuneración inferior, horas de trabajo irregulares y menos horas trabajadas, pocos días de vacaciones y de baja maternal, ninguna baja por enfermedad, y mucha más inseguridad - con menos protecciones en caso de despido, acoso y condiciones de trabajo inseguras; una preocupación potencialmente fatal en el contexto de la pandemia de Covid-19 en curso.
+
+El personal de limpieza subcontratado en la UAL es en su mayoría de origen étnico negro, minoritario y migrante, de mediana edad y mayores, y son mujeres. Estas identidades son únicas y precarias, y se intersectan para hacer que este grupo de trabajadores sea vulnerable a una serie de riesgos externos, que incluyen, entre otros:
+
+1. Precariedad financiera, alimentaria y de vivienda
+2. Discriminación racial, de género y de edad
+3. Victimización bajo la ley de inmigración y el control policial
+4. Mala salud y discapacidad
+5. Mal acceso o falta de acceso a la atención médica y el apoyo
+6. Infección y posible mortalidad debido a Covid-19
+
+Si desea leer más, puede consultar nuestro informe de campaña reciente 
+sobre la subcontratación de contratos de limpieza en la UAL aquí: [El 
+caso contra la subcontratación 2021](https://issuu.com/ualendoutsourcing/docs/ual_outsourcing_case_doc "El caso contra la subcontratación 2021").

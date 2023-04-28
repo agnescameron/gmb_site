@@ -49,4 +49,4 @@ If you would like to read more, you can check out our recent campaign report int
 
 * Follow us on [Twitter](https://twitter.com/ual_j4w?lang=en "UAL: End Outsourcing Twitter account") and [Instagram](https://www.instagram.com/ualendoutsourcing "UAL End Outsourcing Instagram account")
   * Our most up-to-date campaign can be found on our social media channels. Please follow and share our campaign news!
-* Watch the student film [Back In-House](https://www.youtube.com/watch?v=do9w9T-5ql0 "Back In-House short film")
+* [Watch the student film Back In-House](https://www.youtube.com/watch?v=do9w9T-5ql0 "Back In-House short film")

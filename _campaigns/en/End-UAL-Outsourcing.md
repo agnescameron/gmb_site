@@ -38,6 +38,8 @@ If you would like to read more, you can check out our recent campaign report int
 
 ## Take action
 
-* Are you an artist, journalist or art worker? Call on UAL to treat cleaners fairly by signing [our open letter](https://docs.google.com/forms/d/e/1FAIpQLSf359i_msTCUoKEZMgxZy4ef1YNjewjVhg9O8Pui1SkQWv6Zw/viewform "Artists, journalists, and art workers open letter calling on UAL to treat cleaners fairly"). We've started an open letter calling on UAL to treat cleaners fairly. The letter has been signed by over 300 artists, including Aisling Bea, Reni Eddo-Lodge, Afua Hirsch, Gary Younge, Shon Faye, Mark Cousins, Ken Loach, Asif Kapadia and many more. [Add your name today](https://docs.google.com/forms/d/e/1FAIpQLSf359i_msTCUoKEZMgxZy4ef1YNjewjVhg9O8Pui1SkQWv6Zw/viewform "Artists, journalists, and art workers open letter calling on UAL to treat cleaners fairly").
+* Add your name to our open letter. 
+  * Are you an artist, journalist or art worker? We've started an open letter calling on UAL to treat cleaners fairly. The letter has been signed by over 300 artists, including Aisling Bea, Reni Eddo-Lodge, Afua Hirsch, Gary Younge, Shon Faye, Mark Cousins, Ken Loach, Asif Kapadia and many more. [**Add your name **to our open letter](https://docs.google.com/forms/d/e/1FAIpQLSf359i_msTCUoKEZMgxZy4ef1YNjewjVhg9O8Pui1SkQWv6Zw/viewform "Artists, journalists, and art workers open letter calling on UAL to treat cleaners fairly").
+*
 
 ## Further resources

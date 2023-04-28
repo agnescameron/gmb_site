@@ -54,3 +54,9 @@ caso contra la subcontratación 2021](https://issuu.com/ualendoutsourcing/docs/u
 
 * [Únete a la campaña](mailto:gmb@arts.ac.uk "Únete a la campaña")
 * ¿Eres un activista, estudiante o miembro del personal interesado en involucrarte más? Nos gustaría saber de ti y cómo te gustaría apoyar. En particular, agradecemos el apoyo en la línea de piquetes, la sensibilización y el trabajo de promoción, así como la producción de gráficos.
+
+Furhter reousrce
+
+* Síguenos en [Twitter](https://twitter.com/ual_j4w?lang=en "UAL End Outsourcing Twitter") e Instagram para conocer las noticias más recientes de nuestra campaña
+* Mira la película estudiantil Back In-House
+* Lee "Los Limpiadores de UAL Están Luchando Contra la Agenda de Subcontratación" en Tribune

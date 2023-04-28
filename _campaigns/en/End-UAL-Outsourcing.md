@@ -38,15 +38,15 @@ If you would like to read more, you can check out our recent campaign report int
 
 * [**Add your name to our open letter**](https://docs.google.com/forms/d/e/1FAIpQLSf359i_msTCUoKEZMgxZy4ef1YNjewjVhg9O8Pui1SkQWv6Zw/viewform "Artists, journalists, and art workers open letter calling on UAL to treat cleaners fairly")
   * Are you an artist, journalist or art worker? We've started an open letter calling on UAL to treat cleaners fairly. The letter has been signed by over 300 artists, including Aisling Bea, Reni Eddo-Lodge, Afua Hirsch, Gary Younge, Shon Faye, Mark Cousins, Ken Loach, Asif Kapadia and many more. 
-* [Sign the petition](https://actionnetwork.org/petitions/ual-end-racist-outsourcing-cleaners "University of the Arts London: bring cleaners back-in-house!")
-  * This petition demands that University of the Arts London (UAL) ends the outsourcing of cleaning contracts across all its college and campus sites, and takes the health and well-being of its largely Black and minority ethnic low-income workers seriously. After years of being managed by a string of corporations, and after years of struggle, our cleaners and their allies have made it clear that enough is enough.
+* **[Sign the petition](https://actionnetwork.org/petitions/ual-end-racist-outsourcing-cleaners "University of the Arts London: bring cleaners back-in-house!")**
+  * Not an artist by trade but still want to have your voice heard? Our petition demands that University of the Arts London (UAL) ends the outsourcing of cleaning contracts across all its college and campus sites, and takes the health and well-being of its largely Black and minority ethnic low-income workers seriously.
 * **[Donate to the strike fund](https://www.crowdfunder.co.uk/p/support-striking-outsourced-cleaners-at-ual-4 "Support striking outsourced cleaners at UAL")**
   * Cleaners will strike to get the same terms and conditions as directly employed staff, and this fund will help cover their pay and expenses while they take this necessary action to get equal rights as workers.
-* [Join the campaign](mailto:gmb@arts.ac.uk "Join the UAL End Outsourcing Campaign")
+* **[Join the campaign](mailto:gmb@arts.ac.uk "Join the UAL End Outsourcing Campaign")**
   * Are you an activist, student or member of staff interested in getting more involved? We'd like to hear from you and how you'd like to support. In particular, we welcome support on the picket line, awareness-raising and advocacy work, as well as graphics production.
 
 ## Further resources
 
-* Follow us on Twitter and Instagram.
+* Follow us on [Twitter](https://twitter.com/ual_j4w?lang=en "UAL: End Outsourcing Twitter account") and Instagram.
   * Our most up-to-date campaign can be found on our social media channels.
 *
